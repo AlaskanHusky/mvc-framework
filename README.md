@@ -1,2 +1,2 @@
-# mvc-framework
-Simple MVC frameworks that shows how not to do.
+# MVC Framework
+Simple MVC frameworks, that shows how not to do.
